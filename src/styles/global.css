@@ -1,0 +1,40 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  outline: 0;
+}
+body {
+  background: #e9e9e9;
+  color :#2F2C2C;
+  -webkit-font-smoothing: antialiased;
+  height: 100vh;
+}
+body, input, button {
+  font-family: 'Roboto', serif;
+  font-size: 16px;
+}
+h1, h2, h3, h4, h5, h6, strong {
+  font-weight: 500;
+}
+button {
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+
+html,
+body,
+#root {
+  height: 100vh;
+}
+
+@media (min-width: 700px) {
+  :root {
+    font-size: 62.5%;
+  }
+}
