@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/24718475/99124783-973a9400-25e1-11eb-8549-cf839842ac88.png">
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/24718475/97766748-98a29180-1af6-11eb-9277-1e34fea6d759.gif">
 </p>
 
@@ -10,5 +14,6 @@
 <ul>
   <li>Javascript</li>
   <li>ReactJs</li>
+  <li>styled-components</li>
 </ul>
 
